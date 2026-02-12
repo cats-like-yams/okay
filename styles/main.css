@@ -1,5 +1,8 @@
 /* Karen Bojorquez Gil */
 
+html {
+    background-image: url("../images/bg.jpeg");
+}
 
 :link, :visited {
     font-weight: bold;
